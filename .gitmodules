@@ -1,0 +1,3 @@
+[submodule "app/files/lambda-function/vendor/s3-antivirus-cli"]
+	path = app/files/lambda-function/vendor/s3-antivirus-cli
+	url = git@github.com:boltopspro/s3-antivirus-cli.git
